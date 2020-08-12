@@ -1,0 +1,670 @@
+.navigation {
+  height: 37px;
+  background-color: blue;
+  background-size: cover;
+  color: white;
+}
+.navigation1 {
+  color: white;
+  font-size: medium;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  top: 5px;
+  position: relative;
+}
+body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.button1 {
+  color: black;
+  font-weight: 400;
+}
+.opt {
+  font-size: 16;
+  font-weight: 100;
+  top: 10px;
+  position: relative;
+}
+.img-container {
+  height: 500px;
+  background-size: cover;
+}
+.img-container1 {
+  top: 50px;
+  position: relative;
+}
+
+.img-container1a {
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.img-container1b {
+  font-size: 23px;
+  font-weight: lighter;
+  top: 10px;
+  font-family: "Muli";
+  position: relative;
+  color: #504f59;
+  opacity: 80%;
+}
+.trail {
+  top: 20px;
+  position: relative;
+  font-size: 16px;
+  font-weight: bolder;
+}
+.app {
+  margin: 30px;
+  box-shadow: 0 3px 6px black;
+}
+.covid {
+  height: 254px;
+  top: 50px;
+  position: relative;
+  background-size: cover;
+  background-color: #e9effb;
+  text-align: center;
+}
+.covid-1 {
+  text-align: center;
+  width: 800px;
+  height: 100px;
+  font-size: 42px;
+  color: black;
+  top: 50px;
+  position: relative;
+  font-weight: bolder;
+}
+.data {
+  text-align: center;
+  height: 1300px;
+  top: 50px;
+  position: relative;
+}
+.data1 {
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+  color: #255ed6;
+  top: 100px;
+  position: relative;
+  height: 100px;
+}
+.data2 {
+  font-size: 26px;
+  font-weight: 500;
+  color: #504f59;
+  top: 30px;
+  position: relative;
+  font-family: cursive;
+  font-style: normal;
+}
+.data3 {
+  border-bottom: 4px solid transparent;
+  border-color: #255ed6;
+  width: 44px;
+}
+.main-data {
+  top: 100px;
+  position: relative;
+  height: 670px;
+}
+.main-data0 {
+  left: 230px;
+  position: relative;
+}
+.main-data1 {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  padding: 20px;
+  margin-right: 30px;
+  box-shadow: 0 3px 6px whitesmoke;
+}
+.sub-data {
+  height: 150px;
+  width: 150px;
+  background-color: gray;
+  border-radius: 50%;
+  top: 20px;
+  position: relative;
+  opacity: 30%;
+}
+.sub-data1 {
+  top: 30px;
+  position: relative;
+}
+.main-data {
+  top: 200px;
+}
+.main-data2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #255ed6;
+}
+.ind {
+  font-size: 18px;
+  font-weight: 300;
+  top: 30px;
+  position: relative;
+  color: #504f59;
+  opacity: 90%;
+  height: 70px;
+}
+
+.retail {
+  height: 200px;
+  width: 180px;
+  background-color: #e9effb;
+  top: 50px;
+  position: relative;
+  width: 12%;
+  float: left;
+  left: 130px;
+  margin-right: 30px;
+}
+.retail1 {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background-color: white;
+  top: 20px;
+  position: relative;
+}
+.retail2 {
+  top: 20px;
+  position: relative;
+  color: black;
+  font-size: 18px;
+}
+.demo {
+  height: 256px;
+  background-color: rgba(233, 239, 251, 0.95);
+  background-size: cover;
+  text-align: center;
+}
+.demoa {
+  top: 20px;
+  position: relative;
+}
+.demob {
+  font-size: 16px;
+  font-weight: 200;
+}
+.demo-button {
+  top: 50px;
+  position: relative;
+}
+.demo1 {
+  top: 10px;
+  position: relative;
+  font-size: large;
+}
+.clients {
+  height: 300px;
+  text-align: center;
+}
+
+.clientimg {
+  font-size: 50px;
+  font-weight: bolder;
+  color: #255ed6;
+  top: 50px;
+  position: relative;
+}
+.clientimg1 {
+  background-size: cover;
+  height: 300px;
+  top: 50px;
+  position: relative;
+}
+.testimony {
+  height: 1000px;
+  background-size: cover;
+  top: 70px;
+  position: relative;
+}
+
+.testimony1 {
+  text-align: center;
+  height: 500px;
+  left: 30px;
+  position: relative;
+}
+.testimony1a {
+  font-size: 50px;
+  font-weight: 900;
+  color: #255ed6;
+  width: 500px;
+}
+.testimony1b {
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #504f59;
+  opacity: 80%;
+  width: 500px;
+  top: 30px;
+  position: relative;
+}
+.testimony1c {
+  font-size: 20px;
+  color: #255ed6;
+  border: 3px;
+  width: 250px;
+  height: 46px;
+  border-style: solid;
+  border-color: #255ed6;
+  top: 50px;
+  position: relative;
+}
+.test {
+  box-shadow: 0 3px 6px whitesmoke;
+  width: 500px;
+  height: 210px;
+}
+.testimony2 {
+  height: 500px;
+}
+.testimony2a {
+  font-size: 16px;
+  font-weight: 300;
+  color: #504f59;
+  opacity: 80%;
+  width: 50%;
+  float: left;
+  left: 30px;
+  position: relative;
+}
+
+.testimony2b {
+  width: 50%;
+  float: left;
+}
+.testimony2b1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: #504f59;
+  opacity: 30%;
+  top: 30px;
+  left: 70px;
+  position: relative;
+}
+.circle2 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  top: 50px;
+  position: relative;
+}
+.footer {
+  background-color: #255ed6;
+  height: 500px;
+  bottom: 20px;
+  position: relative;
+}
+.footer1 {
+  color: white;
+  top: 70px;
+  position: relative;
+}
+
+.footer2 {
+  color: white;
+  top: 70px;
+  position: relative;
+}
+
+.footer3 {
+  color: white;
+  top: 70px;
+  position: relative;
+}
+
+.footer4 {
+  color: white;
+  top: 70px;
+  position: relative;
+}
+.hori
+{
+  color: white;
+  top: 0px;
+  position: relative;
+  background-color: #255ed6;
+}
+hr { 
+   color: white;
+  }
+
+@media screen and (max-width: 1200px) {
+  .img-container {
+    height: 350px;
+    background-size: cover;
+  }
+  .img-container1 {
+    top: 2px;
+    position: relative;
+    height: 300px;
+  }
+
+  .img-container1a {
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+
+  .img-container1b {
+    font-size: 23px;
+    font-weight: lighter;
+    top: 10px;
+    font-family: "Muli";
+    position: relative;
+    color: #504f59;
+    opacity: 80%;
+  }
+  .trail {
+    top: 20px;
+    position: relative;
+    font-size: 16px;
+    font-weight: bolder;
+  }
+  .app {
+    margin: 30px;
+    box-shadow: 0 3px 6px black;
+  }
+  video {
+    width: 80%;
+    height: auto;
+  }
+  .covid {
+    height: 254px;
+    background-size: cover;
+    background-color: #e9effb;
+    text-align: center;
+    margin-top: 500px;
+  }
+  .c19 {
+    display: flex;
+    justify-content: center;
+  }
+  .covid-1 {
+    max-width: max-content;
+    font-size: 42px;
+    left: 10px;
+    position: relative;
+    color: black;
+
+    font-weight: bolder;
+  }
+  .data {
+    height: 2960px;
+  }
+
+  .industries {
+    top: 250px;
+    position: relative;
+  }
+  .main-data0 {
+    left: 10px;
+    position: relative;
+  }
+
+  .retail {
+    height: 200px;
+    width: 180px;
+    background-color: #255ed6;
+    top: 70px;
+    opacity: 20%;
+    margin-bottom: 20px;
+    position: relative;
+    width: 40%;
+    float: left;
+    left: 100px;
+    margin-right: 15px;
+  }
+  .demo {
+    height: 300px;
+    background-color: rgba(233, 239, 251, 0.95);
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .demoa {
+    top: 50px;
+    position: relative;
+  }
+  .demob {
+    font-size: 16px;
+    font-weight: 200;
+  }
+  .demo-button {
+    top: 50px;
+    position: relative;
+  }
+  .demo1 {
+    top: 10px;
+    position: relative;
+    font-size: large;
+  }
+  .clients {
+    height: 1000px;
+    text-align: center;
+  }
+  .testimony {
+    height: 1500px;
+    background-size: cover;
+    top: 70px;
+    position: relative;
+  }
+
+  .testimony2a {
+    font-size: 16px;
+    font-weight: 300;
+    color: #504f59;
+    opacity: 80%;
+    width: 50%;
+    float: left;
+    left: 50px;
+    position: relative;
+  }
+
+  .testimony2b {
+    width: 50%;
+    float: left;
+  }
+  .testimony1 {
+    text-align: center;
+    height: 350px;
+    left: 30px;
+    position: relative;
+  }
+  .testimony1c {
+    font-size: 20px;
+    color: #255ed6;
+    border: 3px;
+    width: 250px;
+    height: 46px;
+    border-style: solid;
+    border-color: #255ed6;
+    top: 50px;
+    left: 150px;
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .img-container {
+    height: 170px;
+    background-size: cover;
+  }
+  .img-container1 {
+    top: 2px;
+    position: relative;
+    height: 350px;
+  }
+
+  .img-container1a {
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+
+  .img-container1b {
+    font-size: 23px;
+    font-weight: lighter;
+    top: 10px;
+    font-family: "Muli";
+    position: relative;
+    color: #504f59;
+    opacity: 80%;
+  }
+  .trail {
+    top: 20px;
+    position: relative;
+    font-size: 16px;
+    font-weight: bolder;
+  }
+  .app {
+    margin: 30px;
+    box-shadow: 0 3px 6px black;
+  }
+  video {
+    width: 80%;
+    height: auto;
+  }
+  .covid {
+    height: 330px;
+    background-size: cover;
+    background-color: #e9effb;
+    text-align: justify;
+    margin-top: 500px;
+  }
+  .covid-1 {
+    font-size: 34px;
+    max-width: fit-content;
+    color: black;
+    font-weight: bolder;
+  }
+  .data {
+    height: 2960px;
+  }
+
+  .industries {
+    top: 250px;
+    position: relative;
+  }
+  .main-data0 {
+    left: 10px;
+    position: relative;
+  }
+
+  .retail {
+    height: 200px;
+    width: 180px;
+    background-color: #255ed6;
+    top: 70px;
+    opacity: 20%;
+    margin-bottom: 20px;
+    position: relative;
+    width: 40%;
+    float: left;
+    left: 50px;
+    margin-right: 15px;
+  }
+  .demo {
+    height: 300px;
+    background-color: rgba(233, 239, 251, 0.95);
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .demoa {
+    top: 50px;
+    position: relative;
+  }
+  .demob {
+    font-size: 16px;
+    font-weight: 200;
+  }
+  .demo-button {
+    top: 50px;
+    position: relative;
+  }
+  .demo1 {
+    top: 10px;
+    position: relative;
+    font-size: large;
+  }
+  .clients {
+    height: 1150px;
+    text-align: center;
+  }
+  .testimony {
+    height: 2000px;
+    background-size: cover;
+    top: 70px;
+    position: relative;
+  }
+  .testimony2a {
+    font-size: 16px;
+    font-weight: 300;
+    color: #504f59;
+    opacity: 80%;
+    width: 50%;
+    float: left;
+    left: 50px;
+    position: relative;
+  }
+
+  .testimony2b {
+    width: 50%;
+    float: left;
+  }
+  .testimony1a {
+    font-size: 50px;
+    font-weight: 900;
+    color: #255ed6;
+    width: 460px;
+  }
+  .testimony1b {
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+    color: #504f59;
+    opacity: 80%;
+    width: 460px;
+    top: 30px;
+    position: relative;
+  }
+  .testimony1 {
+    text-align: center;
+    height: 400px;
+    left: 30px;
+    position: relative;
+  }
+  .testimony1c {
+    font-size: 20px;
+    color: #255ed6;
+    border: 3px;
+    width: 250px;
+    height: 46px;
+    border-style: solid;
+    border-color: #255ed6;
+    top: 50px;
+    left: 150px;
+    position: relative;
+  }
+  .footer {
+    background-color: #255ed6;
+    height: 900px;
+  }
+}
